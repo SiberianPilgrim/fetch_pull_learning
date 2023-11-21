@@ -3,3 +3,7 @@ There is a new file on GitHub. Now I'm creating new file before updating local r
 Обновить перед git pull и прогрузить только в WD/SA
 
 Давай ещё раз попробуем
+
+Пам пам
+
+kf kf kfkf
